@@ -47,10 +47,10 @@ header{
 
 header .logo{
     margin: 0;
-    padding: 25px 30px;
-    font-weight: bold;
-    color: blueviolet;
-    font-size: 1.6em;
+    height: 120px;
+    width: 160px;
+    
+    
 }
 
 header .container{
